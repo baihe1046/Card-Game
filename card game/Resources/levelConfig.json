@@ -1,0 +1,463 @@
+{
+  "playfield1": [
+    {
+      "CardFace": 12,
+      "CardSuit": 0,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 1,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 1,
+      "CardSuit": 3,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack1": [
+    {
+      "CardFace": 0,
+      "CardSuit": 2,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 3,
+      "CardSuit": 0,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 3,
+      "CardSuit": 3,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ],
+
+  "playfield2": [
+    {
+      "CardFace": 6,
+      "CardSuit": 1,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 11,
+      "CardSuit": 3,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 4,
+      "CardSuit": 2,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 9,
+      "CardSuit": 0,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 3,
+      "CardSuit": 1,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 7,
+      "CardSuit": 2,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack2": [
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 8,
+      "CardSuit": 3,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 10,
+      "CardSuit": 1,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ],
+
+  "playfield3": [
+    {
+      "CardFace": 8,
+      "CardSuit": 2,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 1,
+      "CardSuit": 0,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 5,
+      "CardSuit": 3,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 12,
+      "CardSuit": 1,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 4,
+      "CardSuit": 2,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 10,
+      "CardSuit": 0,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack3": [
+    {
+      "CardFace": 3,
+      "CardSuit": 1,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 7,
+      "CardSuit": 3,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 0,
+      "CardSuit": 2,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ],
+
+  "playfield4": [
+    {
+      "CardFace": 5,
+      "CardSuit": 0,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 10,
+      "CardSuit": 1,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 1,
+      "CardSuit": 2,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 7,
+      "CardSuit": 3,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 6,
+      "CardSuit": 0,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 11,
+      "CardSuit": 1,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack4": [
+    {
+      "CardFace": 9,
+      "CardSuit": 2,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 4,
+      "CardSuit": 3,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 0,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ],
+
+  "playfield5": [
+    {
+      "CardFace": 3,
+      "CardSuit": 3,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 7,
+      "CardSuit": 0,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 11,
+      "CardSuit": 1,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 0,
+      "CardSuit": 2,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 8,
+      "CardSuit": 3,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 5,
+      "CardSuit": 0,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack5": [
+    {
+      "CardFace": 6,
+      "CardSuit": 1,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 12,
+      "CardSuit": 2,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 1,
+      "CardSuit": 3,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ],
+
+  "playfield6": [
+    {
+      "CardFace": 4,
+      "CardSuit": 1,
+      "Position": {
+        "x": 250,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 9,
+      "CardSuit": 2,
+      "Position": {
+        "x": 300,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 0,
+      "CardSuit": 3,
+      "Position": {
+        "x": 350,
+        "y": 600
+      }
+    },
+    {
+      "CardFace": 6,
+      "CardSuit": 0,
+      "Position": {
+        "x": 850,
+        "y": 1000
+      }
+    },
+    {
+      "CardFace": 2,
+      "CardSuit": 1,
+      "Position": {
+        "x": 800,
+        "y": 800
+      }
+    },
+    {
+      "CardFace": 12,
+      "CardSuit": 2,
+      "Position": {
+        "x": 750,
+        "y": 600
+      }
+    }
+  ],
+  "stack6": [
+    {
+      "CardFace": 10,
+      "CardSuit": 3,
+      "Position": {
+        "x": 350,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 8,
+      "CardSuit": 0,
+      "Position": {
+        "x": 500,
+        "y": 400
+      }
+    },
+    {
+      "CardFace": 11,
+      "CardSuit": 1,
+      "Position": {
+        "x": 750,
+        "y": 400
+      }
+    }
+  ]
+}
